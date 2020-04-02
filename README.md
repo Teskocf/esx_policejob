@@ -1,4 +1,4 @@
-# esx_policejob - F3 Nativeui menu - more efficient object placer - removed unnecessary features - Drags player with animation also softhandcuff animatino and hardcuff animation
+# esx_policejob - F3 Nativeui menu - more efficient object placer - removed unnecessary features - Drags player with animation also softhandcuff animatino and hardcuff animation - also hardcoded language on german
 
 
 
